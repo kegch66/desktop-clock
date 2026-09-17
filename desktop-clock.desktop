@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Desktop Analog Clock
+Exec=/path/to/desktop-clock/start.sh
+X-GNOME-Autostart-enabled=true
+Comment=Analog clock that stays on top
