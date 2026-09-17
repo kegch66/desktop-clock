@@ -2,6 +2,8 @@
 
 A small PyQt6 analog clock for Linux desktops. It stays on top, can be moved by dragging, and shows the current date and digital time.
 
+This project was developed with AI assistance under human direction and review.
+
 ## Requirements
 
 - Linux with a graphical desktop session
@@ -63,4 +65,6 @@ QT_QPA_PLATFORM= ./start.sh
 
 ## License
 
-No license has been selected yet. Add a license before distributing the project under specific reuse terms.
+This project is released under the MIT License. See [LICENSE](LICENSE) for the full text.
+
+PyQt6 and its bundled Qt components are separate dependencies with their own licenses.
